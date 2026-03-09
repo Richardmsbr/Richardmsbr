@@ -79,8 +79,11 @@ I help companies build, migrate, and scale their infrastructure and applications
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richardmsbr&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4361ee&icon_color=4361ee&text_color=c9d1d9" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardmsbr&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4361ee&text_color=c9d1d9" alt="Top Languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richardmsbr&theme=github_dark" alt="Profile Details" width="100%">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richardmsbr&theme=dark&hide_border=true&background=0d1117&ring=4361ee&fire=4361ee&currStreakLabel=4361ee" alt="GitHub Streak" height="165">
+  <img src="https://ghchart.rshah.org/4361ee/Richardmsbr" alt="Contribution Chart" height="165">
 </p>
 
 ---
