@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://sakaguchi.ia.br"><img src="https://img.shields.io/badge/🌐_Website-sakaguchi.ia.br-4361ee?style=for-the-badge"></a>
-  <a href="https://blog.sakaguchi.ia.br"><img src="https://img.shields.io/badge/📝_Blog-66_Articles-7209b7?style=for-the-badge"></a>
+  <a href="https://blog.sakaguchi.ia.br"><img src="https://img.shields.io/badge/📝_Blog-Articles-7209b7?style=for-the-badge"></a>
+  <a href="https://seoexpress.com.br"><img src="https://img.shields.io/badge/🔍_SEO-seoexpress.com.br-00c853?style=for-the-badge"></a>
   <a href="https://wa.me/5511996591308"><img src="https://img.shields.io/badge/💬_WhatsApp-Hire_Me-25D366?style=for-the-badge"></a>
 </p>
 
