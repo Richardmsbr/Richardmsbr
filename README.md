@@ -5,7 +5,7 @@
   <a href="https://sakaguchi.ia.br"><img src="https://img.shields.io/badge/🌐_Website-sakaguchi.ia.br-4361ee?style=for-the-badge"></a>
   <a href="https://blog.sakaguchi.ia.br"><img src="https://img.shields.io/badge/📝_Blog-Articles-7209b7?style=for-the-badge"></a>
   <a href="https://seoexpress.com.br"><img src="https://img.shields.io/badge/🔍_SEO-seoexpress.com.br-00c853?style=for-the-badge"></a>
-  <a href="https://wa.me/5511996591308"><img src="https://img.shields.io/badge/💬_WhatsApp-Hire_Me-25D366?style=for-the-badge"></a>
+  <a href="mailto:contato@sakaguchi.ia.br"><img src="https://img.shields.io/badge/📧_Email-Hire_Me-EA4335?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -94,7 +94,6 @@ I help companies build, migrate, and scale their infrastructure and applications
 Looking for a reliable engineer to build or scale your system? I deliver on time, with clean code and solid architecture.
 
 <p align="center">
-  <a href="https://wa.me/5511996591308"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:contato@sakaguchi.ia.br"><img src="https://img.shields.io/badge/Email-contato@sakaguchi.ia.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://sakaguchi.ia.br"><img src="https://img.shields.io/badge/Website-sakaguchi.ia.br-4361ee?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
