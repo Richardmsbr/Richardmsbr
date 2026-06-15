@@ -50,7 +50,6 @@ I help companies build, migrate, and scale their infrastructure and applications
 | [**Privacy Shield BR**](https://github.com/Richardmsbr/privacy-shield-br) | PHP library for LGPD/GDPR compliance - Detects and masks CPF, CNPJ, PIX, email | ![Stars](https://img.shields.io/github/stars/Richardmsbr/privacy-shield-br?style=flat-square) |
 | [**System Design**](https://github.com/Richardmsbr/system-design-architecture) | Production-ready system design blueprints and architectural patterns | ![Stars](https://img.shields.io/github/stars/Richardmsbr/system-design-architecture?style=flat-square) |
 | [**Cybersecurity Arch**](https://github.com/Richardmsbr/cybersecurity-architecture) | Security architectures, threat models, incident response playbooks | ![Stars](https://img.shields.io/github/stars/Richardmsbr/cybersecurity-architecture?style=flat-square) |
-| [**AI Crawler**](https://github.com/Richardmsbr/eget-crawler-for-ai) | Web scraping framework for AI/RAG applications with async processing | ![Stars](https://img.shields.io/github/stars/Richardmsbr/eget-crawler-for-ai?style=flat-square) |
 | [**JeiSEO**](https://github.com/Richardmsbr/jeiseo) | WordPress plugin - AI Marketing Automation with SEO audits | ![Stars](https://img.shields.io/github/stars/Richardmsbr/jeiseo?style=flat-square) |
 
 ---
