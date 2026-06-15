@@ -55,6 +55,15 @@ I help companies build, migrate, and scale their infrastructure and applications
 
 ---
 
+### Machine Learning & Deep Learning
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Rainfall Prediction Classifier**](https://github.com/Richardmsbr/rainfall-prediction-classifier) | End-to-end classification pipeline predicting rainfall from historical weather data — feature engineering, stratified `GridSearchCV`, Random Forest vs. Logistic Regression, full metric evaluation | `scikit-learn` |
+| [**Waste Classification — Transfer Learning**](https://github.com/Richardmsbr/waste-classification-transfer-learning) · 🔒 _private_ | Computer-vision classifier for recyclable vs. organic waste using **VGG16** transfer learning + fine-tuning, with data augmentation and prediction visualization | `TensorFlow` / `Keras` |
+
+---
+
 ### Tech Stack
 
 <p align="center">
